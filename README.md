@@ -1,2 +1,0 @@
-# healowpay
-My awesome repository
